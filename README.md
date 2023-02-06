@@ -14,7 +14,7 @@ TaskHive is a collaborative to-do list app that allows teams and individuals to 
 TaskHive is built with:
 
 - Node.js
-- JavaScript (or TypeScript, depending on your preference)
+- JavaScript 
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ git clone https://github.com/wikiccu/TaskHive.git
 cd TaskHive
 
 3. Install the dependencies
-npm install
+npm install 
 
 4. Start the development server
 npm run dev
