@@ -1,0 +1,20 @@
+{
+  "name": "taskhive",
+  "version": "1.0.0",
+  "description": "TaskHive is a collaborative to-do list app that allows teams and individuals to manage, prioritize, and complete tasks together in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wikiccu/TaskHive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wikiccu/TaskHive/issues"
+  },
+  "homepage": "https://github.com/wikiccu/TaskHive#readme"
+}
